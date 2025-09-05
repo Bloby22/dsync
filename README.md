@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Modular TypeScript library for Discord – Embed, Webhook, and SlashCommand Builder.<br>
+<br>
   ⚠️ <strong>Early development release – APIs are not stable yet.</strong>
 </p>
 
