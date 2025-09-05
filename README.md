@@ -19,14 +19,13 @@
 
 <h2>Tech Stack</h2>
 
-<ul>
-<li><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="20" alt="TypeScript"> <strong>TypeScript</strong></li>
-<li><img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="20" alt="Node.js"> <strong>Node.js</strong></li>
-<li><img src="https://raw.githubusercontent.com/github/explore/main/topics/discordjs/discordjs.png" width="20" alt="Discord.js"> <strong>Discord.js</strong></li>
-<li><img src="https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png" width="20" alt="ESLint"> <strong>ESLint & Prettier</strong></li>
-<li><img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" width="20" alt="npm"> <strong>npm / Yarn</strong></li>
-<li>⚡ <strong>TS Node / tsconfig paths</strong></li>
-</ul>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> 
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> 
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"> 
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+</p>
 
 ---
 
@@ -54,9 +53,9 @@ Many features are not yet implemented. The library is not ready for production.
 
 <p align="center">
   <a href="https://discord.com/users/blobycz">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="30" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-blobycz-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="mailto:michal@bloby.eu">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="30" alt="Email">
+    <img src="https://img.shields.io/badge/Email-michal@bloby.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
