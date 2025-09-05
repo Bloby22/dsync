@@ -1,10 +1,6 @@
 <h1 align="center">DSync [TS]</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/Bloby22" width="120" height="120" alt="BlobyCZ Profile Picture" style="border-radius:50%;">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/status-in%20development-yellow" alt="Status">
   <img src="https://img.shields.io/badge/license-CCL-blue" alt="License">
   <img src="https://img.shields.io/badge/Full%20Release-November%202025-brightgreen" alt="Full Release">
